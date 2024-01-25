@@ -1,0 +1,46 @@
+{
+  "Sections": [
+    {
+      "code": "news_header",
+      "displayName": "عنوان قسم الأخبار",
+      "items": [
+        {
+          "key": "main_title",
+          "displayName": "عنوان رأيسي",
+          "cmsItemTypeEnum": 1,
+          "itemValues": ""
+        },
+        {
+          "key": "small_title",
+          "displayName": "عنوان صغير",
+          "cmsItemTypeEnum": 2,
+          "itemValues": ""
+        }
+      ]
+    },
+    {
+      "code": "intro_section",
+      "displayName": "قسم المقدمة",
+      "items": [
+        {
+          "key": "intro_image",
+          "displayName": "صورة واجهة الموقع",
+          "cmsItemTypeEnum": 3,
+          "itemValues": ""
+        },
+        {
+          "key": "intro_third_title",
+          "displayName": "ملحوظة",
+          "cmsItemTypeEnum": 2,
+          "itemValues": ""
+        },
+        {
+          "key": "intro_secont_title",
+          "displayName": "العنوان الرأيسي للصورة",
+          "cmsItemTypeEnum": 1,
+          "itemValues": ""
+        }
+      ]
+    }
+  ]
+}
